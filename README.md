@@ -1,2 +1,3 @@
-# rust-learning
-Repository dedicated to learning Rust 🦀
+# rust-seminar-paper
+- Repository dedicated to learning Rust 🦀
+- Python VS Rust analysis
